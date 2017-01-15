@@ -2,6 +2,7 @@
 # create by chengfan on 2017/1/13 下午2:29
 
 # 以正确的宽度在剧中的盒子内打印一个句子
+# add & multiply 综合练习
 
 sentence = raw_input("Sentence: ")
 
